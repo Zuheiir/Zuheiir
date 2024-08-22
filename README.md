@@ -3,7 +3,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Zuheiir&color=blue)
 
-Welcome to my GitHub profile! I'm a passionate [Software Engineer] from [London, UK]. I love to explore new technologies and contribute to open-source projects. Here's a bit more about me:
+Welcome to my GitHub profile! I'm a passionate Software Engineer from London, UK. I love to explore new technologies and contribute to open-source projects. Here's a bit more about me:
 
 ## 🚀 About Me
 
