@@ -7,8 +7,8 @@ Welcome to my GitHub profile! I'm a passionate [Software Engineer] from [London,
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **[Tkinter Bubble Sort]**
-- 🌱 I’m currently learning **[React.js]**
+- 🔭 I’m currently working on **[Tkinter Bubble Sort & My Portfolio]**
+- 🌱 I’m currently learning **[React]**
 - 👯 I’m looking to collaborate on **[Anything where I can learn]**
 - 💬 Ask me about **[AI/ML]**
 - 📫 How to reach me: **[zuheirbusiness@gmail.com]**
