@@ -22,7 +22,9 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer from London, UK
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![C#](https://img.shields.io/badge/C%23-CSharp-blue.svg)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-blue.svg)
 
 ## 📈 GitHub Stats
 
