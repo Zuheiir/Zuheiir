@@ -41,8 +41,8 @@ NIGHTMARE NIGHTMARE NIGHTMARE I CAN ONLY CODE C# AND PYTHON
 ### [Tkinter Bubble Sort](https://github.com/Zuheiir/TkinterBubbleSort)
 Visual Representation of Bubble Sort using Python and Tkinter
 
-### [Project 2 TBD](https://github.com/yourusername/project2)
-I NEED A PROJECT IDEA AAAAAAAAAAAAAAAA
+### [To Do List](https://github.com/Zuheiir/todo-list-app)
+To Do List using React
 
 ## 🤝 Connect with Me
 
