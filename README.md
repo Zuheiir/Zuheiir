@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer from London, UK
 - 🌱 I’m currently learning **[React]**
 - 👯 I’m looking to collaborate on **[Anything where I can learn]**
 - 💬 Ask me about **[AI/ML]**
-- 📫 How to reach me: **[samialbadawi2@gmail.com]**
+- 📧 How to reach me: **[samialbadawi2@gmail.com]**
 - 😄 Pronouns: **[he/him]**
 - ⚡ Fun fact: **[I competed semi-professionally in VALORANT and I am currently a part of the top 0.1% of the playerbase.]**
 
