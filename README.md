@@ -1,19 +1,13 @@
 # Zuheiir
 # Hi there 👋, I'm [Sami Zuheir Al-Badawi]!
 
-![Profile Views](https://komarev.com/ghpvc/?username=Zuheiir&color=blue)
-
-Welcome to my GitHub profile! I'm a passionate Software Engineer from London, UK. I love to explore new technologies and contribute to open-source projects. Here's a bit more about me:
-
-## 🚀 About Me
-
-- 🔭 I’m currently working on **[Tkinter Bubble Sort & My Portfolio]**
 - 🌱 I’m currently learning **[React]**
 - 👯 I’m looking to collaborate on **[Anything where I can learn]**
 - 💬 Ask me about **[AI/ML]**
 - 📧 How to reach me: **[samialbadawi2@gmail.com]**
-- 😄 Pronouns: **[he/him]**
 - ⚡ Fun fact: **[I competed semi-professionally in VALORANT and I am currently a part of the top 0.1% of the playerbase.]**
+
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31r7mrnbdxbahivzuufzzi4ipctq)
 
 ## 🛠️ Technologies & Tools
 
@@ -25,22 +19,6 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer from London, UK
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux)
-
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Zuheiir&show_icons=true&hide_border=true&theme=radical)
-
-## 📊 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuheiir&layout=compact&hide_border=true&theme=radical)
-
-## 🌟 Featured Projects
-
-### [Tkinter Bubble Sort](https://github.com/Zuheiir/TkinterBubbleSort)
-Visual Representation of Bubble Sort using Python and Tkinter
-
-### [To Do List](https://github.com/Zuheiir/todo-list-app)
-To Do List using React
 
 ## 🤝 Connect with Me
 
