@@ -1,11 +1,11 @@
 # Zuheiir
 # Hi there 👋, I'm [Sami Zuheir Al-Badawi]!
 
-- 🌱 I’m currently learning **[React]**
-- 👯 I’m looking to collaborate on **[Anything where I can learn]**
+- 🌱 I’m currently learning **Full Stack Dev**
+- 👯 I’m looking to collaborate on **Anything where I can learn and grow!**
 - 💬 Ask me about **[AI/ML]**
-- 📧 How to reach me: **[samialbadawi2@gmail.com]**
-- ⚡ Fun fact: **[I competed semi-professionally in VALORANT and I am currently a part of the top 0.1% of the playerbase.]**
+- 📧 How to reach me: **Please reach me via LinkedIn or message me here!**
+- ⚡ Fun fact: **I competed semi-professionally in VALORANT and I am currently a part of the top 0.1% of the playerbase.**
 
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31r7mrnbdxbahivzuufzzi4ipctq)
 
