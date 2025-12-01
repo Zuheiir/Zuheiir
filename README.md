@@ -6,6 +6,7 @@
 - 💬 Ask me about **[AI/ML]**
 - 📧 How to reach me: **Please reach me via LinkedIn or message me here!**
 - ⚡ Fun fact: **I competed semi-professionally in VALORANT and I am currently a part of the top 0.1% of the playerbase.**
+- 🎧 Music: I love music a lot have a look at my most recent listened to songs below!
 
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31r7mrnbdxbahivzuufzzi4ipctq)
 
